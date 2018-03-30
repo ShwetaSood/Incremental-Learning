@@ -1,4 +1,10 @@
 # Incremental-Learning<br>
+Ability of a machine learning model to adjust to new data of previously unseen classes without forgetting the previously
+learnt knowledge
+<p align="center">
+<img src="https://github.com/ShwetaSood/Incremental-Learning/blob/master/photos/ICR.png"><br>
+</p>
+
 The following folders are present<br>
 Note - Needs internet connectivity to download the MNIST files<br><br>
 
