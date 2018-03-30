@@ -2,7 +2,7 @@
 Ability of a machine learning model to adjust to new data of previously unseen classes without forgetting the previously
 learnt knowledge
 <p align="center">
-<img src="https://github.com/ShwetaSood/Incremental-Learning/blob/master/photos/ICR.png" height="400" width="350"><br>
+<img src="https://github.com/ShwetaSood/Incremental-Learning/blob/master/photos/ICR.png" height="400" width="500"><br>
 </p>
 
 The following folders are present<br>
